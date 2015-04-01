@@ -1,4 +1,4 @@
-	# 2. Experiences and Engagement
+# 2. Experiences and Engagement
 
 Museums deal in the economy of experiences. It is our duty to engage visitors around the objects and scholarship that takes place at The Warhol. We craft our experiences with care so they are intellectually fulfilling, emotionally stimulating and leave visitors craving more.
 
