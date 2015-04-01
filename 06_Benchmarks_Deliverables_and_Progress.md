@@ -36,7 +36,7 @@ A digital strategy is only beneficial to an organization if the results are meas
 **Organizational Adaptation:**
 
 * Digital leadership is a part of early-stage project discussions
-* Number of website and blog content creators on staff
+* Number of website and blog authors on staff
 * Internal assessments
 
 **Financial Solvency:**

@@ -1,4 +1,4 @@
-# 2. Experiences and Engagement
+	# 2. Experiences and Engagement
 
 Museums deal in the economy of experiences. It is our duty to engage visitors around the objects and scholarship that takes place at The Warhol. We craft our experiences with care so they are intellectually fulfilling, emotionally stimulating and leave visitors craving more.
 
@@ -18,11 +18,11 @@ We do not deploy technology projects for technology's sake or as an add-on after
 
 Much like physical visitors have options when deciding where to spend their time, attention and money, online visitors also have choices. The Internet offers infinitely more choices. Experiences offered across the museum's digital landscape (web, mobile, e-marketing, social) must be on par with the best of the Internet. Quality and stability are paramount.
 
-User interfaces must be consistent, elegant and fun to use. Interacting with museum content must be easy. The content itself must be valuable, engaging, shareable and worth sharing.
+User interfaces must be consistent, elegant and fun to use. Interacting with museum subject matter must be easy. The narratives must be valuable, engaging, shareable and worth sharing.
 
 The digital team strikes a balance between developing internally-supported platforms (websites, blogs, mobile applications, etc.) and managing activity on third-party platforms (social media, email marketing, etc.). Activity on third-party platforms are platform-specific and make use of each platform's unique functionality.
 
-We emphasize community and work to grow the depth of interactions around the museum's content, and work to amplify content seen through the lens of Warhol. 
+We emphasize community and work to grow the depth of interactions around The Warhol's objects and stories, and work to amplify artistic expression created through the lens of Warhol. 
 
 ###2.3 Strategy In Action
 
