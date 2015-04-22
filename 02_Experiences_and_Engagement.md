@@ -33,6 +33,7 @@ The following are projects initiated or deployed between 2015 and 2017 that exem
 * [The Warhol Museum launches official Tumblr](http://warhol.tumblr.com) - February 2015
 * [New responsive email marketing templates and refined messaging strategy](http://exhibitions.warhol.org/eblasts/2015-03-18-Sound_Series/) - March 2015
 * [The museum participates in #MuseumWeek](http://museumweek2015.org/en/) - March 2015
+* [Developed and deployed the Amiga 1000 gallery interactive](http://blog.warhol.org/technology/hacking-vintage-technology-to-simulate-time-travel/) - April 2015
 
 -----
 
