@@ -24,6 +24,7 @@ The following are projects initiated or deployed between 2015 and 2017 that exem
 
 * [Mobile-optimized individual giving site](http://www.warhol.org/give) - January 2015
 * [Developed the Amiga 1000 interactive to be loaned with traveling exhibitions](http://blog.warhol.org/technology/hacking-vintage-technology-to-simulate-time-travel/) - April 2015
+* [Localized traveling Screen Test Machines into Spanish and Korean for exhibition loans](http://warholscreentest.com/MATE)
 
 -----
 
