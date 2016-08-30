@@ -22,9 +22,9 @@ The museum works to systematically evolve from a digital project-based funding m
 
 The following are projects initiated or deployed between 2015 and 2017 that exemplify the Financial Solvency strategy outlined above:
 
-* [Mobile-optimized individual giving site](http://www.warhol.org/give) - January 2015
-* [Developed the Amiga 1000 interactive to be loaned with traveling exhibitions](http://blog.warhol.org/technology/hacking-vintage-technology-to-simulate-time-travel/) - April 2015
-* [Localized traveling Screen Test Machines into Spanish and Korean for exhibition loans](http://warholscreentest.com/MATE)
+* [Mobile-optimized individual giving site](http://www.warhol.org/give) — January 2015
+* [Amiga 1000 interactive traveling exhibition](http://blog.warhol.org/technology/hacking-vintage-technology-to-simulate-time-travel/) — April 2015
+* [Localization of traveling Screen Test Machines into Spanish and Korean for exhibition loans](http://warholscreentest.com/MATE)
 
 -----
 
