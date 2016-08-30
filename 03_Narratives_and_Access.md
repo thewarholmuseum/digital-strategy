@@ -26,7 +26,7 @@ In addition to making use of open source solutions, The Warhol contributes back 
 
 The following are projects initiated or deployed between 2015 and 2017 that exemplify the Narratives and Access strategy outlined above:
 
-* [Released Warhol.Org digital metrics dashboard](http://www.warhol.org/digital/metrics) - January 2015
+* [warhol.org digital metrics dashboard](http://www.warhol.org/digital/metrics) - January 2015
 * [Published open source & versioned digital strategy](https://github.com/thewarholmuseum/digital-strategy) - March 2015
 * [Open sourced the museum's new responsive email template](https://github.com/thewarholmuseum/responsive-email-template) - April 2015
 
