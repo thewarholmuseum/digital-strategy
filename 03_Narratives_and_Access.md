@@ -26,9 +26,9 @@ In addition to making use of open source solutions, The Warhol contributes back 
 
 The following are projects initiated or deployed between 2015 and 2017 that exemplify the Narratives and Access strategy outlined above:
 
-* [warhol.org digital metrics dashboard](http://www.warhol.org/digital/metrics) - January 2015
-* [Open sourced digital strategy](https://github.com/thewarholmuseum/digital-strategy) - March 2015
-* [Open sourced the museum's new responsive email template](https://github.com/thewarholmuseum/responsive-email-template) - April 2015
+* [warhol.org digital metrics dashboard](http://www.warhol.org/digital/metrics) — January 2015
+* [Open sourced digital strategy](https://github.com/thewarholmuseum/digital-strategy) — March 2015
+* [Open sourced the museum's new responsive email template](https://github.com/thewarholmuseum/responsive-email-template) — April 2015
 * [Participation in the National Museum Website Visitor Motivation Survey](http://martyspellerberg.com/2016/02/introduction-of-the-national-museum-website-visitor-motivation-survey/) — November 2015
 * [Tactile reproductions of Andy Warhol artworks](http://blog.warhol.org/museum/designing-an-inclusive-audio-guide-part-2-tactile-reproductions/) — July 2016
 * [Open sourced Out Loud, The Warhol’s inclusive audio guide](https://github.com/CMP-Studio/TheWarholOutLoud) — August 2016
