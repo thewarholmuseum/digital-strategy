@@ -20,7 +20,7 @@ Digital activities should not be siloed into media or marketing departments, but
 
 The following are projects initiated or deployed between 2015 and 2017 that exemplify the Organizational Transformation strategy outlined above:
 
-* Creation of the Mobile Experience Task Force - February 2015
+* Creation of the Mobile Experience Task Force — February 2015
 * Creation of Media Production Task Force — July 2016
 
 -----
