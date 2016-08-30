@@ -28,12 +28,17 @@ We emphasize community and work to grow the depth of interactions around The War
 
 The following are projects initiated or deployed between 2015 and 2017 that exemplify the Experiences and Engagement strategy outlined above:
 
-* [Warhol.Org becomes fully-responsive](http://www.warhol.org) - January 2015
-* [Responsive website deployed for *Someday is Now: The Art of Corita Kent*](http://www.warhol.org/CoritaKent) - January 2015
-* [The Warhol Museum launches official Tumblr](http://warhol.tumblr.com) - February 2015
+* [Fully responsive warhol.org](http://www.warhol.org) - January 2015
+* [Responsive website for *Someday is Now: The Art of Corita Kent*](http://www.warhol.org/CoritaKent) - January 2015
+* [The Warhol Tumblr](http://warhol.tumblr.com) - February 2015
 * [New responsive email marketing templates and refined messaging strategy](https://github.com/thewarholmuseum/responsive-email-template) - March 2015
-* [The museum participates in #MuseumWeek](http://museumweek2015.org/en/) - March 2015
-* [Developed and deployed the Amiga 1000 gallery interactive](http://blog.warhol.org/technology/hacking-vintage-technology-to-simulate-time-travel/) - April 2015
+* [Participation in #MuseumWeek](http://museumweek2015.org/en/) - March 2015
+* [Amiga 1000 gallery interactive](http://blog.warhol.org/technology/hacking-vintage-technology-to-simulate-time-travel/) - April 2015
+* [Unboxed iOS interactive](http://blog.warhol.org/museum/unboxed-a-new-app-at-the-warhol) — January 2016
+* [Responsive website for the exhibition *Andy Warhol | Ai Weiwei*](http://www.warhol.org/AndyWarholAiWeiwei) — June 2016
+* [collection.warhol.org launch](http://collection.warhol.org) — June 2016
+* [Participation in @52museums](http://www.mardixon.com/wordpress/2015/12/new-project-for-2016-52museums-instagram-twitter-52museums/) — July 2016
+* [Soft launch of Out Loud, The Warhol’s inclusive audio guide](http://blog.warhol.org/tag/audio-guide) — August 2016
 
 -----
 
