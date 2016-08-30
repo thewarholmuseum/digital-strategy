@@ -32,7 +32,7 @@ The following are projects initiated or deployed between 2015 and 2017 that exem
 * [Responsive website for *Someday is Now: The Art of Corita Kent*](http://www.warhol.org/CoritaKent) - January 2015
 * [The Warhol Tumblr](http://warhol.tumblr.com) - February 2015
 * [New responsive email marketing templates and refined messaging strategy](https://github.com/thewarholmuseum/responsive-email-template) - March 2015
-* [Participation in #MuseumWeek](http://museumweek2015.org/en/) - March 2015
+* [Participation in #MuseumWeek](http://museumweek2015.org/en/) - March 2015 and March 2016
 * [Amiga 1000 gallery interactive](http://blog.warhol.org/technology/hacking-vintage-technology-to-simulate-time-travel/) - April 2015
 * [Unboxed iOS interactive](http://blog.warhol.org/museum/unboxed-a-new-app-at-the-warhol) — January 2016
 * [Responsive website for the exhibition *Andy Warhol | Ai Weiwei*](http://www.warhol.org/AndyWarholAiWeiwei) — June 2016
