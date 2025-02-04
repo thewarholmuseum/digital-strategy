@@ -4,19 +4,19 @@ As museums and cultural heritage institutions, we are the keepers, creators and 
 
 Digital technologies provide new ways of sharing stories and inviting participation through transparent open access. In the coming years we continue to work to increase operational transparency and access to the museum's collection and its compelling narratives.
 
-###3.1 Transparency
+### 3.1 Transparency
 
 In the digital age, availability of all known information trumps the availability of total or complete information. The Andy Warhol Museum embraces this notion and works to make all known information about the museum and its collection available in standard and useable formats.
 
 Tactics employed for increasing institutional transparency may include the implementation of digital dashboards, a communication strategy highlighting behind-the-scenes activity, or an open call for digital users to provide feedback and information about objects in the museum's collection.
 
-###3.2 Access
+### 3.2 Access
 
 Museums often create their own barriers that prevent users from accessing objects, scholarship and narratives. These barriers to access touch every point along the user/visitor experience journey, from purchasing tickets to viewing collection objects online to participating in a dialogue with museum staff. We must put digital technologies to work in addressing where barriers to access exist and eliminate those barriers wherever possible.
 
 The Andy Warhol Museum designs the digital experience around accessibility with the goal of making Warhol's legacy easily available for anyone who desires it.
 
-###3.3 Open Frameworks
+### 3.3 Open Frameworks
 
 The Andy Warhol Museum embraces an open source ethos and commits to deploying initiatives on open frameworks and according to standard protocols. This allows the museum to operate rapidly and participate in the broader community dialogue that surrounds open source frameworks.
 
