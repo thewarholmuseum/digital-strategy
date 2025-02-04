@@ -4,7 +4,7 @@ A digital strategy is only beneficial to an organization if the results are meas
 
 ### 6.1 Key performance indicators (Currently in development)
 
-** Engagement and Experiences:**
+** Engagement and Experiences: **
 
 * Web analytics
 	* sessions
