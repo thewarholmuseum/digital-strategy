@@ -38,7 +38,7 @@ In addition to the vision outlined above, it is also important to bring attentio
 
 Digital and emerging media are fundamental elements that help shape how The Warhol becomes *more than a museum*. Acknowledging the increasingly important role of digital activities within the museum, this strategy document is authored with that tagline in front-of-mind.
 
-##1.2 Strategic Thrusts
+## 1.2 Strategic Thrusts
 
 The Warhol has identified several areas of intense focus for digital and emerging media in the coming years. These areas of focus align with the museum's broader strategic goals and are designed to compliment them.
 
