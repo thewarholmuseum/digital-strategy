@@ -4,13 +4,13 @@ What does it mean to be a museum in the digital age? How can digital and emergin
 
 The Andy Warhol Museum, like many of our sister institutions, is confronting questions like these with the museum's first formal digital strategy. This document is intended to be a roadmap as the museum works to infuse digital activities into its fabric. From in-gallery interactive projects to the digital literacy of Warhol staff (and all points in between), a structured strategy helps the museum stay focussed on priorities and goals, and it serves as a repository for progress along our journey.
 
-###A Real-Time Document
+### A Real-Time Document
 
 The Warhol's digital strategy for 2015-2017 is a real-time document. This means it is living and evolving as we deploy tactics to meet the strategies contained herein. Each strategic thrust includes a *Strategy in Action* section, where we will make updates, additions and notes about ongoing activities.
 
 By structuring our digital strategy as a living document, we have the freedom to respond quickly to external conditions, such as rapid shifts in technology and real-time digital metrics reporting. A transparent document such as this also keeps the museum publicly accountable for progress and momentum.
 
-###An Open-Source Repository
+### An Open-Source Repository
 
 This strategy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/4.0/). You can find the source files on [The Andy Warhol Museum's GitHub account](https://github.com/thewarholmuseum/digital-strategy).
 
@@ -18,7 +18,7 @@ GitHub is traditionally used to host versioned source code that developers can s
 
 Is your organization working to develop a digital strategy but you don't know where to begin? Fork ours. Have a concept that could improve digital strategy throughout the cultural sector? Submit a [pull request](https://github.com/thewarholmuseum/digital-strategy/pulls). Notice a problem or bug? File an [issue ticket](https://github.com/thewarholmuseum/digital-strategy/issues). Feel free to share, adapt or repurpose our source for your organization. 
 
-##1.1 Vision Statement
+## 1.1 Vision Statement
 
 The Andy Warhol Museum is the global keeper of Andy Warhol's legacy and through developing necessary resources it maintains that reputation. 
 
@@ -32,7 +32,7 @@ In order to realize this vision, the museum has identified the following strateg
 
 Each department in the museum is approaching its role and work with this vision statement and set of strategic goals in mind.
 
-###More than a Museum
+### More than a Museum
 
 In addition to the vision outlined above, it is also important to bring attention to the museum's tagline: *More than a museum*. If a museum's core competency is to collect and preserve cultural artifacts, and share those artifacts with the world, The Warhol's mission is that and more.
 
