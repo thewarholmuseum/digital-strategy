@@ -2,9 +2,9 @@
 
 A digital strategy is only beneficial to an organization if the results are measured and evaluated on an ongoing basis. Benchmarking and evaluating our efforts are the keystones toward progress as we work within the framework of this strategy. The museum's digital team meets regularly with senior leadership and departmental stakeholders to determine key performance indicators which help museum staff evaluate tactics and progress.
 
-###6.1 Key performance indicators (Currently in development)
+### 6.1 Key performance indicators (Currently in development)
 
-**Engagement and Experiences:**
+** Engagement and Experiences:**
 
 * Web analytics
 	* sessions
@@ -25,7 +25,7 @@ A digital strategy is only beneficial to an organization if the results are meas
 	* user testing & focus groups
 	* interactive analytics
 	
-**Narratives and Access:**
+** Narratives and Access:**
 
 * Percent of the museum's collection available online
 * Flexibility and availability of museum data
@@ -33,7 +33,7 @@ A digital strategy is only beneficial to an organization if the results are meas
 * Number of projects developed openly
 * All new projects meet accessibility requirements and are standards-compliant
 
-**Organizational Adaptation:**
+** Organizational Adaptation:**
 
 * Digital leadership is a part of early-stage project discussions
 * Number of website and blog authors on staff
